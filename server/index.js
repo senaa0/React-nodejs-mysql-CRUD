@@ -9,10 +9,10 @@ app.use(express.json())
 
 var pool = mysql.createPool({
 
-    host: "93.89.225.112",
-    user: "pehozgun_admina",
-    password: "Admin5050",
-    database: "pehozgun_verita",
+    host: "**.**.***.***",
+    user: "username",
+    password: "password",
+    database: "databasename",
 
 });
 
